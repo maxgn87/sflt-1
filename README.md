@@ -44,6 +44,12 @@
 
 ------
 
+### Решение 
+
+![схемы] (https://github.com/maxgn87/sflt-1/blob/main/hsrp_advanced_save.pkt)
+![настройки роутеров] (https://github.com/maxgn87/sflt-1/blob/main/img/scren_setup%201.jpg)
+![настройки роутеров] (https://github.com/maxgn87/sflt-1/blob/main/img/screen%20setup%202.jpg)
+
 
 ### Задание 2
 - Запустите две виртуальные машины Linux, установите и настройте сервис Keepalived как в лекции, используя пример конфигурационного [файла](1/keepalived-simple.conf).
